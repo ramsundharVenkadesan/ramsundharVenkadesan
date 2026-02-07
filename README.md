@@ -30,17 +30,12 @@ I specialize in bridging the gap between **Agentic AI** and **Production Infrast
 ---
 ### 🛠️ Featured Projects
 
-#### [cite_start][Vettex](https://github.com/your-username/Vettex) (Autonomous AI Agent) [cite: 30]
+#### [Vettex]([https://github.com/your-username/Vettex](https://github.com/ramsundharVenkadesan/Vettex.git)) (Autonomous AI Agent) [cite: 30]
 * [cite_start]Engineered an autonomous agent using **LangChain’s ReAct framework** to conduct technical audits for Venture Capital[cite: 31].
 * [cite_start]Implemented a **"self-healing" reasoning loop** that treats tool failures as observations for adaptive pathfinding[cite: 33].
 * [cite_start]Developed a streaming interface using **FastAPI** and Server-Sent Events (SSE) for transparent agent reasoning[cite: 34].
 
-#### [cite_start][Project Symmetry](https://github.com/your-username/Project-Symmetry) (Quant Analysis Engine) [cite: 6]
-* Developed a high-performance **FastAPI engine** for multilingual quantitative analysis across six languages while at Grey-Box[cite: 16, 17].
-* Performed detailed table and schema analysis to integrate team modules into a cohesive production application[cite: 18].
-* Translated complex architectural designs into working systems through cross-team collaboration[cite: 21].
-
-#### [Real Estate Intelligence Pipeline](https://github.com/your-username/RealEstatePipeline) (ETL/Data Engineering) [cite: 27]
+#### [Real Estate Intelligence Pipeline](https://github.com/ramsundharVenkadesan/RealEstate.git)) (ETL/Data Engineering)
 * Engineered an **ETL pipeline** using **Scrapy** and **Pandas** to automate market analysis for high-volume listings[cite: 29].
 * Built a **Matplotlib engine** to auto-generate KPI reports and hardened system security via attack surface analysis[cite: 29].
 
