@@ -15,7 +15,7 @@ I specialize in bridging the gap between **Agentic AI** and **Production Infrast
 ### 📊 My Technical Arsenal
 * **Languages:** Python, C#, Java, SQL, C
 * **AI/ML:** LangChain, RAG, ReAct Agents, OpenSearch
-* **Cloud & DevOps:** AWS (Bedrock, Cloud Run), Terraform, CI/CD Pipelines
+* **Cloud & DevOps:** AWS (Bedrock, Cloud Run), Terraform, CI/CD Pipelines, Google Cloud Platform (GCP)
 * **Architecture:** Microservices and REST APIs
 
 ---
